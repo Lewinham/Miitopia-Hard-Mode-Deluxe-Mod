@@ -1,5 +1,4 @@
 # Miitopia Hard Mode Deluxe
-###### Version 1.0
 ###### By Lewinham
 ###### For Miitopia on 3DS Only (so far)
 
