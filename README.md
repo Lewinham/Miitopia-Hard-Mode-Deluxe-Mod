@@ -1,6 +1,9 @@
-# Miitopia Hard Mode Deluxe Version 1.0
-An even harder version of AbdyyEee's [Miitopia But Harder](https://github.com/AbdyyEee/Miitopia-But-Harder) 
- mod that offers a new and improved gameplay experience. (Download instructions also included in this link.)
+# Miitopia Hard Mode Deluxe
+##### Version 1.0
+##### By Lewinham
+##### For 3DS Only
+
+An even harder version of AbdyyEee's [Miitopia But Harder](https://github.com/AbdyyEee/Miitopia-But-Harder) mod that offers a new and improved gameplay experience. (Download instructions also included in this link.)
 
 ## Features
  - Improved teammate AI
@@ -12,4 +15,4 @@ An even harder version of AbdyyEee's [Miitopia But Harder](https://github.com/Ab
 
 ## Credits
 - AbdyyEee: Original creator of [Miitopia But Harder](https://github.com/AbdyyEee/Miitopia-But-Harder). Miitopia Hard Mode Deluxe originated from this mod and was made with his permission.
-- Kobazco: Creator of the param info sheet, which was invaluable for making all of the romFS edits.
+- Kobazco: Creator of the [param info sheet](https://docs.google.com/spreadsheets/d/1dGGXvCCSac0z-NZ3-5-QtMc-fa3f46HvJNMhnrN7Igw/edit?usp=sharing), which was invaluable for making all of the romFS edits.
