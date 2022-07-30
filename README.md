@@ -4,6 +4,8 @@
 
 An even harder version of AbdyyEee's [Miitopia But Harder](https://github.com/AbdyyEee/Miitopia-But-Harder) mod that offers a new and improved gameplay experience. (Download instructions also included in this link.)
 
+Download this mod in Releases.
+
 ## Features
  - Improved teammate AI
  - Job rebalancing
